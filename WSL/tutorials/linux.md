@@ -5,6 +5,7 @@ ms.date: 08/05/2022
 ms.topic: article
 ---
 
+
 # Getting started with Linux and Bash
 
 This tutorial will help those new to Linux to get started installing and updating packages using the Ubuntu distribution of Linux that is installed by default using WSL, as well as using some basic commands with the Bash command line.
